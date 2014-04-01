@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//THE AUTHORITATIVE CUBE MOVEMENT
 public class CubeScriptAuthoritative : MonoBehaviour {
 	public NetworkPlayer theOwner;
 	float lastClientHInput = 0f;
