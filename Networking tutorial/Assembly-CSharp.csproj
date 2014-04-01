@@ -46,8 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Authoritative.cs" />
      <Compile Include="Assets\CubeScript.cs" />
+     <Compile Include="Assets\CubeScriptAuthoritative.cs" />
      <Compile Include="Assets\ScriptOne.cs" />
+     <Compile Include="Assets\SpawnerCode.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
